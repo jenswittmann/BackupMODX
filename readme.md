@@ -1,8 +1,9 @@
-BackupMODX Extra for MODx Revolution
+BackupMODX Extra for MODx Revolution (all-inkl.com Version)
 =======================================
 
 
 **Author:** [Quadro](http://www.quadro-system.de) - Jan Dähne
+**Adjustments for all-inkl.com:** Jens Wittmann
 
 Documentation is available at [Quadro](http://www.quadro-system.de/modx-extras/backupmodx.html)
 
